@@ -41,3 +41,4 @@ C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Api\obj\Debug\net8
 C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\ref\BuberDinner.Api.dll
 C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
+C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
