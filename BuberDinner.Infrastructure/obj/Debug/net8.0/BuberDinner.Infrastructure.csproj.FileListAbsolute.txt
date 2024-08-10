@@ -15,3 +15,4 @@ C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Infrastructure\obj
 C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\refint\BuberDinner.Infrastructure.dll
 C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.pdb
 C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\ref\BuberDinner.Infrastructure.dll
+C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.sourcelink.json

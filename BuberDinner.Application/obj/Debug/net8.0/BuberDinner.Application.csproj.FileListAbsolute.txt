@@ -13,3 +13,4 @@ C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Application\obj\De
 C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\refint\BuberDinner.Application.dll
 C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.pdb
 C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\ref\BuberDinner.Application.dll
+C:\Users\Mostafa Mahmoud\source\repos\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.sourcelink.json

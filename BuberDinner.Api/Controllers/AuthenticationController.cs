@@ -21,7 +21,12 @@ public class AuthenticationController : ControllerBase
 
         AuthenticationResult authResult = _authenticationService.Register(request.FirstName, request.LastName, request.Email, request.Password);
 
-        AuthenticationResponse authResponse = new AuthenticationResponse(authResult.Id, authResult.FirstName, authResult.LastName, authResult.Email, authResult.Token);
+        AuthenticationResponse authResponse = new AuthenticationResponse(
+            authResult.User.Id, 
+            authResult.User.FirstName, 
+            authResult.User.LastName, 
+            authResult.User.Email, 
+            authResult.Token);
 
         return Ok(authResponse);
     }
@@ -31,7 +36,12 @@ public class AuthenticationController : ControllerBase
     {
         AuthenticationResult authResult = _authenticationService.Login(request.Email, request.Password);
 
-        AuthenticationResponse authResponse = new AuthenticationResponse(authResult.Id, authResult.FirstName, authResult.LastName, authResult.Email, authResult.Token);
+        AuthenticationResponse authResponse = new AuthenticationResponse(
+            authResult.User.Id,
+            authResult.User.FirstName,
+            authResult.User.LastName,
+            authResult.User.Email,
+            authResult.Token);
 
         return Ok(authResponse);
     }
