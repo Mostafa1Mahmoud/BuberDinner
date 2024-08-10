@@ -1,0 +1,14 @@
+@host=http://localhost:5118
+
+post {{host}}/auth/register 
+Content-Type: application/json
+
+{
+    "firstName": "Mostaf",
+    "lastName": "Mahmoud",
+    "email": "mmossttafa@gamil.com",
+    "password": "mostafa123!"
+}
+
+###
+
